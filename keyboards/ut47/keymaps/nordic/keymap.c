@@ -67,7 +67,7 @@ LAYOUT( /* Base - L0 */
 
 LAYOUT( /* Right modifier - L1 */
   KC_GRV,  KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_6,    KC_7,    KC_8,    KC_9,    KC_0,    KC_DELETE,
-  _______, _______, _______, _______, _______, NO_LESS, NO_MORE, _______, NO_PLUS,  NO_EQL, NO_ASTR, NO_SLSH,
+  _______, _______, _______, _______, _______, NO_LESS, NO_GRTR, _______, NO_PLUS,  NO_EQL, NO_ASTR, NO_SLSH,
   _______, _______, _______, _______, _______, _______, _______, _______,  NO_MINS,  NO_UNDS,  KC_PGUP, _______,
   _______, _______, _______, KC_CAPS, _______,     _______,      _______, _______, KC_HOME, KC_PGDN, KC_END
 ),
